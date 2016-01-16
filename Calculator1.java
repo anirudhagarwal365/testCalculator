@@ -6,6 +6,7 @@ import javax.swing.event.*;
 class Calculator
 	{
 	Frame f;
+	//htututu
 	TextField tf;
 	String input[]={"1","4","7",".","2","5","8","0","3","6","9","=","+","-","*","/","C","%",")","(","sin","cos","tan"};
 	Button b[]=new Button[17];
